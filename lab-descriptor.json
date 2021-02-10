@@ -3,27 +3,81 @@
     "name": "Electrical Engineering",
     "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
   },
-  "lab": "",
+  "lab": "Process Loop Components for the High Low Selector and Alarm Annunciator",
   "phase": 3,
   "collegeName": "coep",
-  "baseUrl": ".vlabs.ac.in",
-  "introduction": "Welcome to the ",
+  "baseUrl": "plchla-coep.vlabs.ac.in",
+  "introduction": "Welcome to the Process Loop Component Lab for the high low selector and alarm annunciator developed at CoEP. The main purpose of this laboratory is to make the students aware of the high low selector and alarm annunciator used in the industry. These components are the backbone of the industry. The working and configuration of these components require high-level skills and due to the cost of these instruments, no college can afford to have these for experimentation. Moreover, the calibration and maintenance required to continuously keep these instruments up and running are also tedious. This is an attempt to virtualize these instruments for thorough understanding.",
   "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Design High/Low selector for interlocking in the process industry for a level loop",
+      "short-name": "interlocking-level-loop",
+      "repo": "https://github.com/virtual-labs/exp-interlocking-level-loop-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design High/Low selector for interlocking in the process industry for pressure loop",
+      "short-name": "interlocking-pressure-loop",
+      "repo": "https://github.com/virtual-labs/exp-interlocking-pressure-loop-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design High/Low selector for interlocking in the process industry for flow loop",
+      "short-name": "interlocking-flow-loop",
+      "repo": "https://github.com/virtual-labs/exp-interlocking-flow-loop-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design High/Low selector for interlocking in the process industry for temperature loop",
+      "short-name": "interlocking-temperature-loop",
+      "repo": "https://github.com/virtual-labs/exp-interlocking-temperature-loop-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design an alarm annunciator for level control system",
+      "short-name": "annunciator-level-control",
+      "repo": "https://github.com/virtual-labs/exp-annunciator-level-control-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design an alarm annunciator for the pressure control system",
+      "short-name": "annunciator-pressure-control",
+      "repo": "https://github.com/virtual-labs/exp-annunciator-pressure-control-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design an alarm annunciator for the flow control system",
+      "short-name": "annunciator-flow-control",
+      "repo": "https://github.com/virtual-labs/exp-annunciator-flow-control-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design an alarm annunciator for a temperature control system",
+      "short-name": "annunciator-temperature-control",
+      "repo": "https://github.com/virtual-labs/exp-annunciator-temperature-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in "],
-    "PG": ["MS/Ph. D. Beginners in "]
+    "UG": ["B. Tech./ B.E in Instrumentation and Control Engineering, Chemical, Mechatronics, Mechanical Engineering branches"],
+    "PG": ["MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering."]
   },
-  "objective": "",
+  "1. objective": "Configure the high low selector and alarm annunciator understudy 2. Analyse the effects of configurable parameters on the performance of the component under test 3. Select the appropriate component as regards span, linearity, accuracy, and damping for the application. 4. Identify the faults in the component and rectify the same.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the ^^ course of various universities to considerable extent.",
-    "universities": ["^^"]
+    "universities": [
+      "Pune University",
+      "Indian Institute of Technology Bombay",
+      "Indian Institute of Technology Delhi",
+      "BMS College of Engineering, Bangalore",
+      "Institute having Instrumentation and control department"]
   },
 }
