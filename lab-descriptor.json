@@ -27,7 +27,7 @@
       "name": "Design High/Low selector for interlocking in the process industry for flow loop",
       "short-name": "interlocking-flow-loop",
       "repo": "https://github.com/virtual-labs/exp-interlocking-flow-loop-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -41,28 +41,28 @@
       "name": "Design an alarm annunciator for level control system",
       "short-name": "annunciator-level-control",
       "repo": "https://github.com/virtual-labs/exp-annunciator-level-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Design an alarm annunciator for the pressure control system",
       "short-name": "annunciator-pressure-control",
       "repo": "https://github.com/virtual-labs/exp-annunciator-pressure-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Design an alarm annunciator for the flow control system",
       "short-name": "annunciator-flow-control",
       "repo": "https://github.com/virtual-labs/exp-annunciator-flow-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Design an alarm annunciator for a temperature control system",
       "short-name": "annunciator-temperature-control",
       "repo": "https://github.com/virtual-labs/exp-annunciator-temperature-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -85,5 +85,5 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v1.0.0"
+  "version": "v1.0.1"
 }
