@@ -85,7 +85,7 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v1.0.2",
+  "version": "v1.1.0",
   "exp_name": "Design an alarm annunciator for a temperature control system",
   "exp_short_name": "annunciator-temperature-control",
   "production": true,
