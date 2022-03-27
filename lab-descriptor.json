@@ -4,6 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
   },
   "lab": "Process Loop Components for the High Low Selector and Alarm Annunciator",
+  "lab_display_name": "Process Loop Components for the High Low Selector and Alarm Annunciator",
   "phase": 3,
   "collegeName": "coep",
   "baseUrl": "plchla-coep.vlabs.ac.in",
@@ -85,7 +86,7 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v1.6.0",
+  "version": "v1.7.0",
   "exp_name": "Design an alarm annunciator for a temperature control system",
   "exp_short_name": "annunciator-temperature-control",
   "production": true,
